@@ -1,1 +1,7 @@
-# Cybersoft_BC90-Airbnb-Home_Booking_Website__Group_5-P.Loc-H.Phong
+# Airbnb Clone – Home Rental Booking Website
+
+An Airbnb-inspired web application that allows users to explore and book short-term rental accommodations such as apartments, houses, and homestays.
+
+## 👥 Team Members
+- Phước Lộc
+- Huỳnh Phong
